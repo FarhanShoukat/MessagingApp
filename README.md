@@ -24,6 +24,13 @@ The app also uses **Firebase Invites** to give user the facility to invite other
 User can also change his/her name or status. Status work the same way as in WhatsApp.
 
 
+## How to Run
+
+An apk file [WhatsApp.apk](../master/WhatsApp.apk) is provided which can be installed on an Android Phone.
+
+In order to have a look at the code files and understand the working, simply download or clone this repository and open it in Android Studio.
+
+
 ## Contact
 You can get in touch with me on my LinkedIn Profile: [Farhan Shoukat](https://www.linkedin.com/in/farhan-shoukat-782542167/)
 
