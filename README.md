@@ -12,3 +12,8 @@ This app is like WhatsApp. This is an **android app** that allows its users to s
 
 ## Contact
 You can get in touch with me on my LinkedIn Profile: [Farhan Shoukat](https://www.linkedin.com/in/farhan-shoukat-782542167/)
+
+
+## License
+[MIT](../master/LICENSE)
+Copyright (c) 2018 Farhan Shoukat
