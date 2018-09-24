@@ -1,4 +1,4 @@
-# myWhatsapp
+# Whatsapp
 
 ## Project Description
 This app is like WhatsApp. This is an **android app** that allows its users to send text messages, share images using camera or gallery and share their location with their friends. Users register with their **phone number** and their friends are made using their contact list (the same way as in WhatsApp).
