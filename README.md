@@ -11,6 +11,17 @@ This app is like WhatsApp. This is an **android app** that allows its users to s
 * Firebase Invite
 
 
+## Screenshots of Interfaces and their Description
+
+<p align="middle">
+  <img src="../master/Screenshots/s1.png"/>
+ </p>
+ 
+ <p align="middle">
+  <img src="../master/Screenshots/s2.png"/>
+ </p>
+
+
 ## Functionalities
 
 This app uses **Firebase Phone Number Authentication** which verifies a user’s phone number by sending a code to it. The user is then authenticated to use the app. Then the user is asked to provide a name and profile picture. Profile picture is stored in **Firebase Storage**.
